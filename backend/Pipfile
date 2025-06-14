@@ -36,3 +36,4 @@ dj-rest-auth = "==5.0.2"
 azure-keyvault-secrets = "~=4.8.0"
 azure-identity = "~=1.17.1"
 azure-storage-blob = "==12.23.1"
+cb-django-push-notifications = {file = "modules/django_push_notifications", editable = true}
