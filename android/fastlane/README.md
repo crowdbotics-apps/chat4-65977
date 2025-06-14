@@ -70,7 +70,7 @@ Deploy a new version to the Google Play
 
 Deployment to Appetize
 
-### android build_aab
+### android build_apk
 
 ```sh
 [bundle exec] fastlane android build_aab
