@@ -1,17 +1,3 @@
-BUNDLE_PATH: "vendor/bundle"
-BUNDLE_FORCE_RUBY_PLATFORM: 1
-.
-├── ...
-├── android                 # Android native files
-├── backend                 # Django backend REST API
-├── ios                     # iOS native files
-├── modules                 # Modules
-├── public
-├── screens
-├── store                   # Application state storage
-├── ...
-├── README.md
-└── ...
-npx react-native start
-npx react-native run-android
+BUNDLE_PATH: "vendor/bundle"npx react-native start
+BUNDLE_FORCE_RUBY_PLATFORM: 1npx react-native run-android
 yarn run web:build
