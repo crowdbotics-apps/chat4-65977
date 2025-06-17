@@ -8,3 +8,15 @@
 #   http://developer.android.com/guide/developing/tools/proguard.html
 
 # Add any project specific keep options here:
+.
+├── ...
+├── android                 # Android native files
+├── backend                 # Django backend REST API
+├── ios                     # iOS native files
+├── modules                 # Modules
+├── public
+├── screens
+├── store                   # Application state storage
+├── ...
+├── README.md
+└── ...
